@@ -1,0 +1,41 @@
+{
+    "modules": [
+        {
+            "name": "Dashboard",
+            "id": "dashboard",
+            "key": "dashboard",
+            "sortOrder": 0
+        },
+        {
+            "name": "Management",
+            "id": "management",
+            "key": "management",
+            "sortOrder": 1
+        },
+        {
+            "name": "Reporting",
+            "id": "reporting",
+            "key": "reporting",
+            "sortOrder": 2
+        },
+        {
+            "name": "Operations",
+            "id": "operations",
+            "key": "operations",
+            "sortOrder": 3
+        },
+        {
+            "name": "Configuration",
+            "id": "configuration",
+            "key": "configuration",
+            "sortOrder": 4
+        }
+    ],
+    "dashboard": [
+        {
+            "label": "Components",
+            "key": "configuration",
+            "sortOrder": 0
+        }
+    ]
+}
